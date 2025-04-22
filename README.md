@@ -1,4 +1,4 @@
-# ghinstall
+# ⬇️ ghinstall
 
 ghinstall is a GitHub-based CLI tool that installs repositories via a public permission system.
 
