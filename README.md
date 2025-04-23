@@ -19,7 +19,7 @@ mkdir -p ~/.ghinstall
 4. Move the downloaded file to `~/.ghinstall`
 
 ## 📜 License
-ghinstall is licensed under the **GNU General Public License v3.0**.  
+ghinstall is licensed under the GNU General Public License v3.0.  
 You are free to use, modify, and distribute this software, as long as any derivative works are also open-sourced under the same license.  
 👉 Please read the full license [here](LICENSE)
 
