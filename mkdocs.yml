@@ -1,0 +1,8 @@
+site_name: ⬇️ ghinstall
+nav:
+    - 🏠 Home: index.md
+    - 🛠️ Install: install.md
+    - 📜 License: license.md
+theme:
+  name: null
+  custom_dir: 'cinder'
