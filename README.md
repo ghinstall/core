@@ -7,7 +7,7 @@ ghinstall is a GitHub-based CLI tool that installs repositories via a public per
 📦 Installs public GitHub repos with style.
 
 ## 🛠️ Installation
-1. Download the latest relase [here](https://github.com/ghinstall/core/releases/tag/v1.0)  
+1. Download the latest relase [here](https://github.com/ghinstall/ghinstall/releases/tag/v1.0)  
 2. Add this to your `~/.bashrc` or `~/.zshrc`:
 ```shell
 source ~/.ghinstall/ghinstall.sh
