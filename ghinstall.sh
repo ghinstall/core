@@ -16,7 +16,7 @@ ghinstall() {
     git clone "https://github.com/${owner}/${repo}.git"
   elif [[ "$permission" == "Permission [DENIED] - do not install" ]]; then
     echo "❌ Install denied. Please try again later."
-  elif [[ "$permission" == "Permission [DENIED] - under maintanence" ]]; then
+  elif [[ "$permission" == "Permission [DENIED] - under maintenance" ]]; then
     echo "🛠️ Currently under maintenance. Please try again later."
   else
     echo "⚠️ Invalid or unknown permission response. Aborting."
